@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Hokuyo Sensors",
+	"Description": "This plugin contains simulated Hokuyo lidar sensors.",
+	"Category": "Lidar",
+	"CreatedBy": "Andrew Watson",
+	"CreatedByURL": "watsontandrew@gmail.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Hokuyo",
+			"Type": "Developer",
+			"LoadingPhase": "Default"
+		}
+	]
+}
